@@ -1,0 +1,9 @@
+{
+    "admin_pass": "xyz",
+    "ga_id": "UA-111529660-1",
+    "track": {
+        "default": "http://default",
+        "url_1": "http://youtube.com",
+        "url_2": "http://youtube.com"
+    }
+}

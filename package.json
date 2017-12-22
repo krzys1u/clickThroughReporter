@@ -1,0 +1,21 @@
+{
+    "name": "clickThroughReporter",
+    "version": "0.0.1",
+    "description": "GA reporter for clicklinks",
+    "contributors": [
+        "Krzysztof Stożek <stozekrzysztof@gmail.com>"
+    ],
+    "scripts": {
+        "start": "node app/app.js"
+    },
+    "engines": {
+        "node": ">= 8.0.0"
+    },
+    "dependencies": {
+        "body-parser": "1.16.0",
+        "cookie-session": "^2.0.0-alpha.2",
+        "express": "4.14.0",
+        "mustache-express": "*"
+    },
+    "devDependencies": {}
+}
